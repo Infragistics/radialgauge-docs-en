@@ -111,7 +111,7 @@ endif::xamarin[]
 
 ifdef::sl,wpf,win-phone,win-universal,xamarin[] 
 
-** {ApiPlatform}v{ProductVersion}.dll 
+** {ApiPlatform}dll 
 
 endif::sl,wpf,win-phone,win-universal,xamarin[] 
 
